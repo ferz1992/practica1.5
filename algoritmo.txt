@@ -1,0 +1,9 @@
+algoritmo para encender moto electrica.
+
+tener una motocicleta para encender
+tener la llave que encienda esa motocicleta
+dirigirme hacia la motocicleta y mirando hacia el manubrio sentarme en el asiento
+buscar el switch donde va la llave de la motocicleta
+colocar la llave y girar hacia la derecha hasta llegar al primer tope
+buscar el boton de encendido electrico
+presionar el boton de encendido
